@@ -1,0 +1,6 @@
+;file1.txt
+; sweet
+ice cream; 10 cents
+; savory
+sandwich;49c
+hot dog ; 49 c

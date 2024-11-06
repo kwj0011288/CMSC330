@@ -1,0 +1,6 @@
+;file2.txt
+;icecream;10cents
+ice cream; 10     cents
+; lines below are invalid
+goldfish; 100c
+sandwich;  49c cents

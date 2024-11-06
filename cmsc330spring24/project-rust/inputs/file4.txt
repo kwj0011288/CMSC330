@@ -1,0 +1,5 @@
+;file4.txt
+;icecream;10cents
+ice cream; 10     cents
+goldfish; 100c
+sandwich; 49c

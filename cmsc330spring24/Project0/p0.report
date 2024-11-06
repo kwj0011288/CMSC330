@@ -1,0 +1,7 @@
+ocaml=4.14
+opam=2.1
+rustc=1.75
+ounit=2.2.7
+dune=3.13.0
+utop=2.13.1
+graphviz=9.0
